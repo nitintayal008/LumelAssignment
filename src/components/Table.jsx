@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Row from "../Row";
+import Row from "./Row";
 
 const DataTable = ({ data }) => {
   const [tableRows, setTableRows] = useState(data.rows);

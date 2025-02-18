@@ -38,10 +38,10 @@ const Row = ({ row, depth, onUpdate, originalValues }) => {
           />
         </td>
         <td>
-          <button onClick={handleAllocationPercentage}>Allocation %</button>
+          <button onClick={handleAllocationPercentage}>% Allocation</button>
         </td>
         <td>
-          <button onClick={handleAllocationValue}>Allocation Val</button>
+          <button onClick={handleAllocationValue}>Val Allocation</button>
         </td>
         <td>{variance.toFixed(2)}%</td>
       </tr>
