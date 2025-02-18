@@ -1,1 +1,1 @@
-Live URl of teh website - https://lumel-assignment-wine.vercel.app/
+Live URl of the website - https://lumel-assignment-wine.vercel.app/
